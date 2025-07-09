@@ -1,3 +1,3 @@
 # First
 This is my first repository
-Author - Nimat
+Author - Nimat Hasan
